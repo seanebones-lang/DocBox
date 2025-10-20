@@ -558,24 +558,66 @@ This is a proprietary healthcare system. Internal contributors should follow:
 7. Merge to `develop` (staging deployment)
 8. Production release via `main` branch
 
-## License & Copyright
+## ⚠️ PROPRIETARY SOFTWARE - LICENSE REQUIRED FOR EVALUATION
 
-**Proprietary Software - All Rights Reserved**
+**IMPORTANT LEGAL NOTICE: This is COMMERCIAL SOFTWARE FOR SALE**
 
-**Copyright © 2025 Sean McDonnell**
+### 🚫 NOT OPEN SOURCE - NOT FREE SOFTWARE
 
-This software is the exclusive property of Sean McDonnell. Unauthorized use, copying, modification, or distribution is strictly prohibited and may result in legal action.
+This software is **NOT**:
+- Open source software
+- Free software  
+- Available under any permissive license
+- Free to use, modify, or distribute
 
-### Interested in Using DocBox?
+### 💼 COMMERCIAL SOFTWARE FOR SALE
 
-To **evaluate**, **purchase**, or **license** this software:
+**Copyright © 2025 Sean McDonnell. All Rights Reserved.**
 
-🔗 **[Schedule a meeting at www.bizbot.store](https://www.bizbot.store)**
+This is a **COMMERCIAL SOFTWARE PRODUCT** that is:
+- ✅ **FOR SALE** - Available for purchase
+- ✅ **LICENSABLE** - Commercial licensing available  
+- ✅ **PROPRIETARY** - All rights reserved
 
-### Legal Terms
+### 📋 EVALUATION LICENSE REQUIRED
 
-- See [LICENSE](LICENSE) for license terms
+**To evaluate this software, you MUST:**
+1. Contact Sean McDonnell for proper licensing
+2. Obtain written evaluation permission
+3. Agree to evaluation terms and conditions
+
+**Unauthorized evaluation is strictly prohibited.**
+
+### 🔒 VIEWING ≠ LICENSE TO USE
+
+**Important:** Access to this repository or viewing the source code does **NOT** grant any rights to:
+- Use the software
+- Modify the software
+- Distribute the software
+- Create derivative works
+- Evaluate or test the software
+
+### 📞 LICENSING CONTACT
+
+**For all licensing inquiries:**
+- **Website**: [www.bizbot.store](https://www.bizbot.store)
+- **Purpose**: Evaluation licensing, commercial licensing, purchase inquiries
+- **Owner**: Sean McDonnell
+
+### ⚖️ LEGAL ENFORCEMENT
+
+Unauthorized use may result in:
+- Civil litigation
+- Criminal prosecution
+- Monetary damages
+- Injunctive relief
+- Recovery of legal fees
+
+### 📄 FULL LICENSE TERMS
+
+- See [LICENSE](LICENSE) for complete legal terms
 - See [COPYRIGHT.md](COPYRIGHT.md) for full copyright notice
+- See [NOTICE.md](NOTICE.md) for legal notice
 - All intellectual property rights reserved
 - No implied licenses granted
 

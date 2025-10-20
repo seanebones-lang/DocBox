@@ -8,27 +8,51 @@ This software and associated documentation files (the "Software") are the
 exclusive proprietary property of Sean McDonnell. All rights, title, and 
 interest in and to the Software are owned solely by Sean McDonnell.
 
-RESTRICTIONS:
+COMMERCIAL SOFTWARE FOR SALE:
 
-You are NOT permitted to:
-- Use, copy, modify, or distribute this Software
+This is a COMMERCIAL SOFTWARE PRODUCT that is FOR SALE. This software is 
+NOT open source, NOT free software, and NOT available under any permissive 
+license.
+
+EVALUATION LICENSE REQUIRED:
+
+To evaluate this software, you MUST obtain a proper evaluation license from 
+Sean McDonnell. Unauthorized evaluation, testing, or use is strictly prohibited.
+
+RESTRICTIONS - YOU ARE NOT PERMITTED TO:
+
+- Use, copy, modify, or distribute this Software without a license
 - Create derivative works
 - Reverse engineer or decompile
 - Remove copyright notices
-- Use for commercial purposes
+- Use for any purpose without explicit written permission
 - Transfer or sublicense
+- Evaluate or test without proper licensing
 
 ACCESS TO SOURCE CODE DOES NOT CONSTITUTE A LICENSE.
 
-EVALUATION & PURCHASE:
+Viewing this repository or accessing the source code does NOT grant any rights 
+to use, modify, evaluate, or distribute the software.
 
-To evaluate or purchase this Software, schedule a meeting at:
+LICENSING & PURCHASE:
+
+To obtain proper licensing for:
+- Software evaluation
+- Commercial use
+- Custom deployment
+- Enterprise licensing
+- Purchase of the complete system
+
+Contact Sean McDonnell at:
 https://www.bizbot.store
 
-CONTACT:
-- Owner: Sean McDonnell
-- Website: https://www.bizbot.store
-- Product: DocBox Healthcare RAG System
+LEGAL ENFORCEMENT:
+
+Unauthorized use of this software may result in:
+- Civil litigation
+- Criminal prosecution under applicable laws
+- Monetary damages and injunctive relief
+- Recovery of attorney's fees and costs
 
 NO WARRANTY:
 
@@ -41,7 +65,10 @@ LIMITATION OF LIABILITY:
 IN NO EVENT SHALL SEAN MCDONNELL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
 LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
 
-For full copyright terms, see COPYRIGHT.md
+JURISDICTION:
+
+This license shall be governed by the laws of the United States of America.
+
+For licensing inquiries: https://www.bizbot.store
 
 © 2025 Sean McDonnell. All Rights Reserved.
-
