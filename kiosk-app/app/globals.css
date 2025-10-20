@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Kiosk-specific styles */
+.kiosk-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.kiosk-content {
+  min-height: calc(100vh - 80px); /* Account for progress indicator */
+}
+
+/* Touch-friendly button styles */
+.kiosk-button {
+  @apply touch-manipulation select-none;
+  min-height: 44px; /* iOS recommended minimum touch target */
+  min-width: 44px;
+}
+
+/* High contrast for accessibility */
+.kiosk-text {
+  @apply text-gray-900;
+}
+
+.kiosk-text-secondary {
+  @apply text-gray-600;
+}
+
+/* Focus styles for keyboard navigation */
+.kiosk-focus:focus {
+  @apply outline-none ring-4 ring-primary-500 ring-opacity-50;
+}
+
+/* Responsive text scaling for kiosk displays */
+@media (min-width: 1920px) {
+  .kiosk-text {
+    @apply text-2xl;
+  }
+}
+
+/* Disable text selection for kiosk interface */
+.kiosk-no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Ensure content fits properly on kiosk screens */
+@media (max-height: 1080px) {
+  .kiosk-container {
+    min-height: 100vh;
+  }
+}
+
+/* Progress indicator styles */
+.progress-dot {
+  @apply w-4 h-4 rounded-full transition-colors duration-200;
+}
+
+.progress-dot.active {
+  @apply bg-primary-600;
+}
+
+.progress-dot.completed {
+  @apply bg-green-500;
+}
+
+.progress-dot.pending {
+  @apply bg-gray-300;
+}
